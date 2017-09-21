@@ -21,11 +21,11 @@ h2 {
 }
 
 p {
-  font-color: 2020aa;
+  font-color: #2020aa;
 }
 
 #intro {
-  background-color: #2020aa;
+  rgba(0,100,255,0.3)
 }
 
 #bearimage1 {
