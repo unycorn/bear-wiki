@@ -13,19 +13,19 @@ html {
 }
 
 h1 {
-  font-color: #4444ee;
+  color: #4444ee;
 }
 
 h2 {
-  font-color: #4444ee;
+  color: #4444ee;
 }
 
 p {
-  font-color: #2020aa;
+  color: #2020aa;
 }
 
 #intro {
-  background-color: rgba(0,100,255,0.3);
+  color: rgba(0,100,255,0.3);
 }
 
 #bearimage1 {
