@@ -1,7 +1,6 @@
 body, html {
   height: 100%;
   margin: 0;
-  color: #777;
 }
 
 html {
@@ -22,11 +21,11 @@ h2 {
 }
 
 p {
-  font-color: 202020;
+  font-color: 2020aa;
 }
 
 #intro {
-  background-color: #202020;
+  background-color: #2020aa;
 }
 
 #bearimage1 {
