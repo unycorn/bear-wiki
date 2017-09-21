@@ -1,6 +1,9 @@
 html {
   background-image: url(http://cdn-image.foodandwine.com/sites/default/files/1474296403/canadian-man-survived-a-bear-attack-fwx.jpg);
+  background-attachment: fixed;
+  background-position: center;
   background-repeat: repeat;
+  background-size: cover;
   font-family: "Courier";
 }
 
