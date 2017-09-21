@@ -1,19 +1,17 @@
 html {
   background-image: url(http://cdn-image.foodandwine.com/sites/default/files/1474296403/canadian-man-survived-a-bear-attack-fwx.jpg);
   background-repeat: repeat;
+  font-family: "Courier";
 }
 
 h1 {
   font-color: #4444ee;
-  font-family: "Courier";
 }
 
 h2 {
   font-color: #4444ee;
-  font-family: "Courier";
 }
 
 p {
   font-color: 202020;
-  font-family: "Courier";
 }
