@@ -54,12 +54,21 @@
       <li>Black Bear</li>
       <img alt="Black Bears are Neato!" title="ThIS BlaCk bEAr is SupER nEAtO" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Black_Bear-27527.jpg" width="300" class="photo"></img>
       <li>White Bear</li>
-      <img alt="White Bears are SuPeR!" title="ThIS wHItE BEar is SupER ChilL!1!!" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Polar_Bear_-_Alaska.jpg" width="300" class="photo"></img>
+      <img alt="White Bears are SuPeR!" title="ThIS wHItE BEar is SupER ChilL!1!!" width="300" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Polar_Bear_-_Alaska.jpg" class="photo" onmouseover="hover(this);" onmouseout="unhover(this);"></img>
       <li>Mixed Bear</li>
       <img alt="Mixed Bears are KoOL!" title="ThIS bear Is BLaCk and WhITe!!?1" src="https://ichef-1.bbci.co.uk/news/660/cpsprodpb/169F6/production/_91026629_gettyimages-519508400.jpg" width="300" class="photo"></img>
     </ul>
   </div>
   <div style="height:200px"></div>
 </body>
+
+<script>
+  function hover(element) {
+    element.setAttribute('src', "https://media.newyorker.com/photos/59095e9b019dfc3494e9fb43/master/w_727,c_limit/Frazier-Animal-Mascots-Climate-Change.jpg");
+}
+function unhover(element) {
+    element.setAttribute('src', "https://upload.wikimedia.org/wikipedia/commons/0/09/Polar_Bear_-_Alaska.jpg");
+}
+</script>
 
 </html>
