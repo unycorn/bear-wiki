@@ -4,7 +4,7 @@ body, html {
 }
 
 html {
-  background-image: radial-gradient(ellipse at center, #777 0%, #555 50%, #222 100%);
+  background: radial-gradient(ellipse at center, #777 0%, #555 50%, #222 100%), url(http://cdn-image.foodandwine.com/sites/default/files/1474296403/canadian-man-survived-a-bear-attack-fwx.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: repeat;
@@ -13,30 +13,32 @@ html {
 }
 
 hr {
-  margin-left: 10px;
+  margin-left: 30px;
 }
 
 h1 {
-  margin-left: 10px;
+  margin-left: 30px;
   color: #ff7f50;
 }
 
 h2 {
-  margin-left: 20px;
+  margin-left: 40px;
   color: #ff7000;
 }
 
 p {
-  margin-left: 30px;
+  margin-left: 50px;
   color: #eeeeee;
 }
 
 li {
-  margin-left: 30px;
+  margin-left: 50px;
   color: #222;
 }
 
 .text {
+  border-top-left-radius: 40px;
+  margin-left: 20px;
   background-image: radial-gradient(ellipse at center, rgba(100,100,255,0.4) 1%, rgba(100,100,255,0.5) 50%, rgba(100,100,255,0.6) 80%);
   padding-top: 5px;
   padding-bottom: 5px;
@@ -50,6 +52,7 @@ li {
 
 .photo {
   border-radius: 8px;
+  margin-left: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
