@@ -4,7 +4,7 @@ body, html {
 }
 
 html {
-  background: radial-gradient(ellipse at center, #777 0%, #555 50%, #222 100%), url(http://cdn-image.foodandwine.com/sites/default/files/1474296403/canadian-man-survived-a-bear-attack-fwx.jpg);
+  background: radial-gradient(ellipse at center, #777 0%, #555 50%, #222 100%);
   background-attachment: fixed;
   background-position: center;
   background-repeat: repeat;
