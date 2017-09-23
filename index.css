@@ -29,6 +29,8 @@ h2 {
 p {
   margin-left: 50px;
   color: #eeeeee;
+  max-width:50%;
+  word-wrap:normal;
 }
 
 li {
