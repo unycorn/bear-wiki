@@ -39,6 +39,10 @@ li {
   color: #222;
 }
 
+canvas {
+  padding: 5%;
+}
+
 #nav {
   height: 50px;
   margin-left: 20px;
